@@ -2471,7 +2471,7 @@ animation effects	Off	Isključeno
 	Counting words… {n} pages read	Brojanje riječi… pročitano stranica: {n}
 	Word counting stopped unexpectedly.	Brojanje riječi se neočekivano zaustavilo.
 	Word count…	Broj riječi…
-@id	file.word_count	Broj riječi
+@id	file.word_count	Broj riječi…
 	Standard	Standardno
 	Mobile	Mobilno
 	Merge image fragments	Spoji fragmente slika
